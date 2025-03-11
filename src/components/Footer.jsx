@@ -9,7 +9,7 @@ const Footer = () => {
             <h2 className="font-normal mb-3 text-3xl tracking-wide">ثمار صنوان</h2>
             <ul className="list-inside font-light text-base md:list-disc">
               <li className="mb-1">سياسة الخصوصية</li>
-              <li>سياسة الاستبدال و الاسترجاع</li>
+              {/* <li>سياسة الاستبدال و الاسترجاع</li> */}
             </ul>
           </div>
           <div className="w-full md:w-80 flex flex-col items-center md:text-right">

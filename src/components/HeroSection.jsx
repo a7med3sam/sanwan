@@ -16,9 +16,9 @@ const HeroSection = () => {
           يوم. قم بتحميل التطبيق وتسوق الآن من راحة منزلك.
         </p>
         <div className="flex flex-wrap justify-center gap-3 md:gap-4">
-          <button className="bg-[var(--color-button-bg)] text-white font-semibold px-4 py-2 md:px-6 md:py-3 rounded-xl text-sm md:text-base hover:bg-green-800 transition">
+          {/* <button className="bg-[var(--color-button-bg)] text-white font-semibold px-4 py-2 md:px-6 md:py-3 rounded-xl text-sm md:text-base hover:bg-green-800 transition">
             تسجيل دخول
-          </button>
+          </button> */}
           <button className="bg-[var(--color-button-bg)] text-white font-semibold px-4 py-2 md:px-6 md:py-3 rounded-xl text-sm md:text-base hover:bg-green-800 transition">
             أحصل على التطبيق
           </button>
