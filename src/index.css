@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+
+
+@theme {
+  --font-display: "Noto Kufi Arabic", sans-serif;
+
+  --color-nav: #ABBFAB80;
+  --color-text-primary: #263238;
+  --color-button-bg: #447143;
+  --color-q-dev: #ABBFAB;
+  --color-footer-bg: #1F3526;
+  --color-footer-text: #D7EBD7;
+  
+  /* ... */
+}
