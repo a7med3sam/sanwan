@@ -76,7 +76,7 @@ const MainSection = () => {
         </div>
       </section>
 
-      <section
+      <section id="get-app"
         className="text-white mb-7 bg-auto mx-4 overflow-hidden md:mx-20 px-4 rounded-tl-[50px] md:rounded-tl-[100px] rounded-tr-[15px] md:rounded-tr-[25px] rounded-br-[50px] md:rounded-br-[100px] rounded-bl-[15px] md:rounded-bl-[25px] h-auto min-h-[300px] md:h-[350px] lg:h-[300px]"
         style={{
           backgroundImage:

@@ -20,7 +20,8 @@ const HeroSection = () => {
             تسجيل دخول
           </button> */}
           <button className="bg-[var(--color-button-bg)] text-white font-semibold px-4 py-2 md:px-6 md:py-3 rounded-xl text-sm md:text-base hover:bg-green-800 transition">
-            أحصل على التطبيق
+            <a href="#get-app">أحصل على التطبيق
+            </a>
           </button>
         </div>
       </div>

@@ -2,7 +2,7 @@ import React from "react";
 
 const Footer = () => {
   return (
-    <footer className="bg-[var(--color-footer-bg)] text-[var(--color-footer-text)] py-8">
+    <footer id="footer" className="bg-[var(--color-footer-bg)] text-[var(--color-footer-text)] py-8">
       <div className="container mx-auto px-4">
         <div className="flex flex-col md:flex-row justify-between gap-6 md:gap-4">
           <div className="mb-6 mr-10 md:mb-0 text-center md:text-right">

@@ -112,7 +112,8 @@ const Header = () => {
           </button>
         </div>
         <button className="bg-[var(--color-button-bg)] text-white px-3 py-1 md:px-4 md:py-2 rounded-xl text-sm md:text-base hover:bg-green-800 transition">
-          ابدأ التسوق
+        <a href="#footer">ابدأ التسوق
+        </a>
         </button>
       </div>
       {/* Mobile Dropdown Menu */}
