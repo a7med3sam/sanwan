@@ -17,7 +17,7 @@ const Footer = () => {
             <div className="flex flex-row md:flex-col gap-4 justify-center items-center md:items-end">
               <a href="#" className="inline-block">
                 <img
-                  src="/src/assets/google-play.png"
+                  src="/google-play.png"
                   alt="Google Play"
                   className="h-10 md:h-13"
                   loading="lazy"
@@ -25,7 +25,7 @@ const Footer = () => {
               </a>
               <a href="#" className="inline-block">
                 <img
-                  src="/src/assets/AppStore-logo.png"
+                  src="/AppStore-logo.png"
                   alt="App Store"
                   className="h-14 md:h-14"
                   loading="lazy"
@@ -35,7 +35,7 @@ const Footer = () => {
           </div>
           <div className="w-full md:w-80 flex justify-center md:justify-start">
             <img
-              src="/src/assets/footer-logo.svg"
+              src="/footer-logo.svg"
               alt=""
               className="w-1/2 md:w-60"
               loading="lazy"
@@ -48,7 +48,7 @@ const Footer = () => {
             <ul className="flex flex-col md:flex-row gap-4 md:gap-9 justify-center items-center">
               <li className="flex items-center">
                 <img
-                  src="/src/assets/phone-iocn.svg"
+                  src="/phone-iocn.svg"
                   alt="phone icon"
                   className="icon ml-2"
                   loading="lazy"
@@ -57,7 +57,7 @@ const Footer = () => {
               </li>
               <li className="flex items-center">
                 <img
-                  src="/src/assets/whatsapp-icon.svg"
+                  src="/whatsapp-icon.svg"
                   alt="whatsapp icon"
                   className="icon ml-2"
                   loading="lazy"
@@ -66,7 +66,7 @@ const Footer = () => {
               </li>
               <li className="flex items-center">
                 <img
-                  src="/src/assets/email-icon.svg"
+                  src="/email-icon.svg"
                   alt="email icon"
                   className="icon ml-2"
                   loading="lazy"

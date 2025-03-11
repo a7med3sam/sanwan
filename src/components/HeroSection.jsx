@@ -4,7 +4,7 @@ const HeroSection = () => {
   return (
     <section
       className="relative bg-cover pt-16 md:pt-24 pb-8 md:pb-56 min-h-[60vh] md:min-h-[80vh] flex items-center"
-      style={{ backgroundImage: "url('/src/assets/hero-bg.jpeg')" }}
+      style={{ backgroundImage: "url('/hero-bg.jpeg')" }}
     >
       <div className="absolute inset-0 bg-white opacity-35 md:opacity-20"></div>
       <div className="container mx-auto px-4 py-8 md:py-16 flex flex-col items-center text-[var(--color-text-primary)] text-center relative z-10">
